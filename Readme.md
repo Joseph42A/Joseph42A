@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Joseph</h1>
-<p>A passionate frontend developer from Kurdistan</p>
+<p>A passionate software engineer</p>
  <h2>🚀 Languages and Tools I Use</h2>
     <p>
       <a
